@@ -1,5 +1,5 @@
-### Brackets
-Determine whether a given string of parentheses (multiple types) is properly nested.
+### MaxProductOfThree
+Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
 [URL](https://app.codility.com/demo/results/trainingSQFYV5-EUU/)
 1. https://app.codility.com/demo/results/training44WKXP-6U7/
