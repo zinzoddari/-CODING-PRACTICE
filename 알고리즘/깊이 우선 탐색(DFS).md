@@ -82,8 +82,9 @@ class DfsTest {
 3. 해당 노드의 방문 배열을 체크 해 준다.
 4. 해당 노드의 인접 노드를 가져와 방문하지 않았다면, 해당 노드를 가지고 dfs 함수를 호출해준다.
 <br/>
-<br/>
+
 - 재귀함수 구현 코드
+
 ```java
 public class Dfs {
     static boolean visit[];
